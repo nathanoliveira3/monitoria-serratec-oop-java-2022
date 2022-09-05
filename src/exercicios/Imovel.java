@@ -4,7 +4,7 @@ public class Imovel {
     private String codImovel;
     private String bairro;
     private TipoImovel tipoImovel;
-    private double valor;
+    private double valor;   
     
     public Imovel(String codImovel, String bairro, TipoImovel tipoImovel, double valor) {
         
